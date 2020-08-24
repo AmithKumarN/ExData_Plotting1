@@ -1,3 +1,6 @@
+## Instructions
+Find the 4 .R files which are used to create the corresponding plot.png file. There a total of 8 files, one .R file and one .png file for each of the four plots.
+
 ## Introduction
 
 This assignment uses data from
